@@ -52,7 +52,7 @@
 }
 .first-card:hover{
     background-color: white;
-    box-shadow: 5px 5px 5px 5px solid black ;
+    box-shadow: 2px 2px 15px black ;
 }
 .title{
     justify-content: center;
@@ -62,9 +62,9 @@
 }
 .second-card{
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 10px;
-    box-shadow: 5px 5px 5px 5px solid black;
+    box-shadow: 2px 5px 10px black;
 }
 .buy-course{
     width: 150px;
